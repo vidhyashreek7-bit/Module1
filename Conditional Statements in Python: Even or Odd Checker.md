@@ -17,7 +17,7 @@ a=int(input())
 if(a%2==0):
     print("EVEN")
 else:
-    print("ODD"0
+    print("ODD")
 ```
 ## Output
 ![1](https://github.com/user-attachments/assets/322b489c-76b5-4abb-8340-2798c0ef7787)
