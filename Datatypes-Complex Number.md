@@ -28,4 +28,4 @@ print(x.imag)
 
 
 ## Result
-Thus the python program to print complex number ,the real and imaginary part is exceuted successfully.
+Thus the python program to print complex number ,the real and imaginary part is executed successfully.
