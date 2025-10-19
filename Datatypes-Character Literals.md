@@ -8,13 +8,10 @@ To write a Python program that prints the characters `'T'` and `'a'` using chara
 2. Print the character `'a'`.
 
 ## 🧾 Program
-```
-print("T")
-print("a")
-```
+
 
 ## Output
-![3](https://github.com/user-attachments/assets/04775808-ff70-42b6-9a56-facc35ebbd59)
+
 
 
 
