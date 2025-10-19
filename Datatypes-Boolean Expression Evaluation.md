@@ -18,7 +18,7 @@ To write a Python program that evaluates and prints the results of boolean and a
 ```
 a = (0==True)
 
-b = (0==False)
+b = (False==False)
 
 c = True + True
 
